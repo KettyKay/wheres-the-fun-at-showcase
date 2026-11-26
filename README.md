@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Where's the Fun At_Zambia Guide.png" alt="Where's the Fun At? Logo" width="500">
+</p>
+
 # Where's the Fun At? 🇿🇲
 
 ### The Zambia Lifestyle Guide
